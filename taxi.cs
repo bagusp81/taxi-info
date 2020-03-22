@@ -23,7 +23,7 @@ namespace LabActivity3
             get { return onDuty; }
             set { onDuty = value; }
         }
-
+ 
         public int NumPassenger
         {
             get { return numPassenger; }
